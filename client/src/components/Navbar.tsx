@@ -30,7 +30,7 @@ const Navbar = () => {
                             Sign In
                         </Button>
                     </Link>
-                    <Link href={"/signin"}>
+                    <Link href={"/signup"}>
                         <Button variant="secondary" className='bg-transparent bg-secondary-600 text-white border-white hover:text-primary-700 hover:bg-white rounded-lg'>
                             Sign Up
                         </Button>
